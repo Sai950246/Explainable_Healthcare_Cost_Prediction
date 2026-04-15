@@ -1,0 +1,8 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^cd backend; python -c \"\nimport pandas as pd\ndf = pd\\.read_csv\\('sparcs\\.csv', nrows=5\\)\nprint\\('Available columns:'\\)\nfor i, col in enumerate\\(df\\.columns\\):\n    print\\(f'\\{i:2d\\}: \\{col\\}'\\)\n\"$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}
