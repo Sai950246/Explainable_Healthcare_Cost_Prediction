@@ -1,5 +1,10 @@
 # Test Cases and Scenarios Documentation
 
+# Dataset
+#The dataset used in this project is not included in this repository due to its large size.
+#You can download it from:
+#https://health.data.ny.gov/Health/Hospital-Inpatient-Discharges-SPARCS-De-Identified/gnzp-ekau/about_data
+
 ## Healthcare Cost Prediction System
 
 **Project:** Hospital Patient Resource Allocation & Healthcare Cost Prediction  
